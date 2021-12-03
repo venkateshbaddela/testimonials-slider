@@ -30,8 +30,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/venkateshbaddela/testimonials-slider]
+- Live Site URL: [https://venkateshbaddela.github.io/testimonials-slider/]
 
 ### Built with
 
